@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kyle044
 - 👀 I’m interested in Web Dev Android Python
-- 🌱 I’m currently learning MERN Stack Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN Stack Python and .NET Ecosystem
+- 💞️ I’m looking to collaborate on a Website Project
 - 📫 How to reach me Email me on kylegwapo04@gmail.com
 
 <!---
